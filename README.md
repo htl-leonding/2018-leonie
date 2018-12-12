@@ -28,7 +28,9 @@
 
 [Website](https://github.com/FabianAhammer/LeonieDialogflowTest)
 
-[Backend](https://github.com/FabianAhammer/Leonie_Backend)
+[Node.js Backend](https://github.com/FabianAhammer/Leonie_Backend)
+
+[JavaEE Backend](https://github.com/karstenkoehne/leonie-sandbox)
 
 [Documentation](https://github.com/stefnotch/leonie-documentation)
 
