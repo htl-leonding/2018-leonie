@@ -34,7 +34,7 @@
 
 [Documentation](https://github.com/stefnotch/leonie-documentation)
 
-[3D Assets](https://github.com/FabianPrieschl/Leonie-Web-Frontend)
+[3D Frontend](https://github.com/FabianPrieschl/Leonie-3D)
 
 
 
