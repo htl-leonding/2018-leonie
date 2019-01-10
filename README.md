@@ -28,6 +28,8 @@
 
 [Website - Leonie Show](https://github.com/FabianAhammer/LeonieDialogflowTest)
 
+[Website - Face Detection](https://github.com/karstenkoehne/leonie-idle)
+
 [JavaEE Backend](https://github.com/karstenkoehne/leonie-sandbox)
 
 [3D Frontend - Leonie Holo](https://github.com/FabianPrieschl/Leonie-3D)
