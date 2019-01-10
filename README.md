@@ -26,20 +26,19 @@
 
 ## Leonie Repositories
 
-[Website](https://github.com/FabianAhammer/LeonieDialogflowTest)
-
-[Node.js Backend](https://github.com/FabianAhammer/Leonie_Backend)
+[Website - Leonie Show](https://github.com/FabianAhammer/LeonieDialogflowTest)
 
 [JavaEE Backend](https://github.com/karstenkoehne/leonie-sandbox)
 
+[3D Frontend - Leonie Holo](https://github.com/FabianPrieschl/Leonie-3D)
+
 [Documentation](https://github.com/stefnotch/leonie-documentation)
 
-[3D Frontend](https://github.com/FabianPrieschl/Leonie-3D)
+### Deprecated
 
-
+[Node.js Backend](https://github.com/FabianAhammer/Leonie_Backend)
 
 [Previous Website](https://github.com/karstenkoehne/leonie-show)
 
 [Leonie Question Collection](https://github.com/FabianAhammer/GetLeonieData)
-
 
