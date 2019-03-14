@@ -10,7 +10,7 @@
 powershell -ExecutionPolicy ByPass -File .\Ciklum-Kiosk.ps1
 ```
 [`-ExecutionPolicy ByPass` is required because of this.](https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system)
-### With the .bat files
+### With the .bat file
 Double-click `Start.bat`
 
 
