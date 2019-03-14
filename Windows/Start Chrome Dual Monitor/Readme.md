@@ -9,8 +9,7 @@
 ```powershell
 powershell -ExecutionPolicy ByPass -File .\Ciklum-Kiosk.ps1
 ```
-
-[Source](https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system)
+[`-ExecutionPolicy ByPass` is required because of this.](https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system)
 
 
 
