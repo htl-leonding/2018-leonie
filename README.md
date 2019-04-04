@@ -26,6 +26,8 @@
 
 ## Leonie Repositories
 
+[Leonie Web](https://github.com/FabianAhammer/leonie-web)
+
 [Website - Leonie Show](https://github.com/FabianAhammer/LeonieDialogflowTest)
 
 [Website - Face Detection](https://github.com/karstenkoehne/leonie-idle)
