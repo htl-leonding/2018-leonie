@@ -1,6 +1,8 @@
 # 2018-leonie
 
 ## Team Members
+### 0th Gen
+[Leonie](https://github.com/htblaleonie)
 
 ### 2nd Gen
 
