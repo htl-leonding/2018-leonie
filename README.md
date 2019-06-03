@@ -1,6 +1,8 @@
 # 2018-leonie
 
 ## Team Members
+### 0th Gen
+[Leonie](https://github.com/htblaleonie)
 
 ### 2nd Gen
 
@@ -22,25 +24,29 @@
 
 [Stephan Do](https://github.com/DoStephan)
 
+### 4th Gen
+[Gloria Sara Panturu](https://github.com/gspanturu)
 
+[Ivonne Gattringer](https://github.com/ivonnegattringer)
 
 ## Leonie Repositories
 
 [Leonie Web](https://github.com/FabianAhammer/leonie-web)
 
-[Website - Leonie Show](https://github.com/FabianAhammer/LeonieDialogflowTest)
-
-[Website - Face Detection](https://github.com/karstenkoehne/leonie-idle)
-
-[JavaEE Backend](https://github.com/karstenkoehne/leonie-backend)
-
 [3D Frontend - Leonie Holo](https://github.com/FabianPrieschl/Leonie-3D)
+
+[3D Frontend - Leonie Holo LFS](https://gitlab.htl-leonding.ac.at/htblaleonie/Leonie-3D/tree/master)
 
 [Documentation - Old](https://github.com/stefnotch/leonie-documentation)
 
 [Dialogflow Exporter](https://github.com/FabianAhammer/DialogflowLogExporter)
 
 ### Deprecated
+[Website - Leonie Show](https://github.com/FabianAhammer/LeonieDialogflowTest)
+
+[Website - Face Detection](https://github.com/karstenkoehne/leonie-idle)
+
+[JavaEE Backend](https://github.com/karstenkoehne/leonie-backend)
 
 [Node.js Backend](https://github.com/FabianAhammer/Leonie_Backend)
 
