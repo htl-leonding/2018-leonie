@@ -9,7 +9,9 @@
 
 ## Setting up SSH
 
-[SFTP/SSH setting up](https://winscp.net/eng/docs/guide_windows_openssh_server#installing_sftp_ssh_server)
+[SFTP/SSH setting up](https://winscp.net/eng/docs/guide_windows_openssh_server#installing_sftp_ssh_server) 
+
+[Password](https://raymii.org/s/tutorials/SSH_on_Windows_Server_2019.html#OpenSSH_server_configuration)
 
 ## Setting up DuckDNS
 
@@ -17,6 +19,7 @@ So that your server has a domain name. Not required if the IP is static or the s
 
 - Add a new [DuckDNS domain](https://www.duckdns.org/domains)
 - [Set it up](https://www.duckdns.org/install.jsp)
+- Regarding a script, check out the private repository
 
 ## Installing the FlaxEngine
 
