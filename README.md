@@ -1,4 +1,4 @@
-# 2018-leonie
+# Leonie - The avatar of the HTL Leonding!
 
 [**Öffentliche Demo Version**](https://htl-leonding.github.io/2018-leonie)
 
