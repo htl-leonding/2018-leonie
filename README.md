@@ -54,8 +54,6 @@
 
 [3D Frontend - Leonie Holo LFS](https://gitlab.htl-leonding.ac.at/htblaleonie/Leonie-3D/tree/master)
 
-[Documentation - Old](https://github.com/stefnotch/leonie-documentation)
-
 [Dialogflow Exporter](https://github.com/FabianAhammer/DialogflowLogExporter)
 
 ### Deprecated
