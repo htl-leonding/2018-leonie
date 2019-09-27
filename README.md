@@ -2,6 +2,17 @@
 
 [**Öffentliche Demo Version**](https://htl-leonding.github.io/2018-leonie)
 
+## Events
+- [Ars Electronica Festival "Error – the Art of Imperfection"](https://ars.electronica.art/error/en/leonie-der-avatar-der-htl-leonding/)'
+  - DATE
+- [Ball der Leondiger](https://www.youtube.com/watch?v=kzIQ6k_xdjA)
+  - DATE
+- [Schlossmuseum "TechVisionen – Neues aus der Zukunft"](http://www.landesmuseum.at/de/ausstellungen/detail/techvisionen-neues-aus-der-zukunft.html)
+  - 2019-01-10 to 2019-03-31 
+- Welser Messe
+  - 2019-10-02 to 2019-10-05
+- Oö. Zukunftssymposium 2019 
+  - 2019-11-19
 
 
 ## Team Members
