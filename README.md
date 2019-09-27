@@ -46,6 +46,14 @@
 
 [Christian Donnabauer](https://github.com/donnabauerc)
 
+[Juliana Naderer](https://github.com/julinad)
+
+[Schirin Turko](https://github.com/schirinturko)
+
+[Eva Hildenbrand](https://github.com/evahildenbrand)
+
+[Maria Milic](https://github.com/milicmaria)
+
 ## Leonie Repositories
 
 [Leonie Web](https://github.com/FabianAhammer/leonie-web)
