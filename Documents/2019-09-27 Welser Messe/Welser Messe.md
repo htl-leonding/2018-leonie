@@ -19,7 +19,12 @@
 - Handheld Microphone
 - Camera Cover
 
+## Leonie
 
+- Avatar/Chatbot/Assistent
+- Kamera
+- Erzaehl mir etwas &uuml;ber die HTL Leonding?
+- Welcher Zweig
 
 ## Demo Texte
 
