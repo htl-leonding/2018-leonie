@@ -23,7 +23,7 @@
 
 - Avatar/Chatbot/Assistent
 - Kamera
-- Erzaehl mir etwas &uuml;ber die HTL Leonding?
+- Erz&auml;hl mir etwas &uuml;ber die HTL Leonding?
 - Welcher Zweig
 
 ## Demo Texte
@@ -35,4 +35,4 @@
 
 - Wer hat dich gemacht?
   - Gruppenarbeit
-- Erzaehl mir etwas &uuml;ber die HTL Leonding?
+- Erz&auml;hl mir etwas &uuml;ber die HTL Leonding?
