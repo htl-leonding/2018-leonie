@@ -17,3 +17,4 @@
 - Gestell passend platzieren 
 - Pyramide säubern
 - Kamera fixieren?
+- Wo ist alles? (wo wir z.B. das Mikro hingeben zwischen den Tagen, damit man dann nicht dauernd suchen muss)
