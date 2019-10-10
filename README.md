@@ -13,6 +13,8 @@
   - 2019-10-02 to 2019-10-05
 - Oö. Zukunftssymposium 2019 
   - 2019-11-19
+- Neujahrsveranstaltung der Stadt Leonding
+  - Woche in/nach den Weihnachtsferien
 
 
 ## Team Members
