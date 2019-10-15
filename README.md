@@ -14,8 +14,12 @@
 - Oö. Zukunftssymposium 2019 
   - 2019-11-19
 - Neujahrsveranstaltung der Stadt Leonding
-  - Woche in/nach den Weihnachtsferien
+  - 2020-01-07
 
+
+**Schüler fahren bei Transport mit** (Dezember)
+- Tontest
+  - Donnerstag, 
 
 ## Team Members
 ### 0th Gen
