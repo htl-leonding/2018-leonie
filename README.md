@@ -44,9 +44,6 @@
 [Stephan Do](https://github.com/DoStephan)
 
 ### 4th Gen
-[Gloria Sara Panturu](https://github.com/gspanturu)
-
-[Ivonne Gattringer](https://github.com/ivonnegattringer)
 
 [Christian Donnabauer](https://github.com/donnabauerc)
 
