@@ -59,9 +59,9 @@
 
 [Leonie Web](https://github.com/FabianAhammer/leonie-web)
 
-[3D Frontend - Leonie Holo](https://github.com/FabianPrieschl/Leonie-3D)
+[Leonie Holo - 3D Frontend](https://github.com/FabianPrieschl/Leonie-3D)
 
-[3D Frontend - Leonie Holo LFS](https://gitlab.htl-leonding.ac.at/htblaleonie/Leonie-3D/tree/master)
+[Leonie Holo LFS - 3D Frontend](https://gitlab.htl-leonding.ac.at/htblaleonie/Leonie-3D/tree/master)
 
 [Dialogflow Exporter](https://github.com/FabianAhammer/DialogflowLogExporter)
 
