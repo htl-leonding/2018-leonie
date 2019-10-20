@@ -1,5 +1,7 @@
 # New Leonie Team
 
+We're gonna need some actual introduction text here, probably a system overview as well and whatnot.
+
 ## First Steps
 1. Invite to Discord Server 
 2. Invite to GitHub Repos
