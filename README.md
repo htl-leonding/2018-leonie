@@ -17,7 +17,8 @@
   - 2020-01-07 **Schüler fahren bei Transport mit** (Dezember)
   - Tontest
     - Donnerstag, 2019-10-24 08:00 - 08:30
-
+- Treffen der AVs
+  - 2020-03
 
 ## Team Members
 ### 0th Gen
