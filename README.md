@@ -66,6 +66,8 @@
 
 [Dialogflow Exporter](https://github.com/FabianAhammer/DialogflowLogExporter)
 
+[Leonie Face Detection](https://github.com/FabianPrieschl/Leonie_FaceDetection)
+
 ### Deprecated
 [Website - Leonie Show](https://github.com/FabianAhammer/LeonieDialogflowTest)
 
