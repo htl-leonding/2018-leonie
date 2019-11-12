@@ -2,6 +2,7 @@
 
 1. Vor jedem Event bzw. beim Abbau prüfen:
 
+- WLAN und Strom
 - Kabellose Tastatur nach USB-Empfänger überprüfen (Vollständigkeit)
 - Längere Kabel z.B. DisplayPort, Ethernet-Kabel etc.
 - Funktionalität überprüfen
