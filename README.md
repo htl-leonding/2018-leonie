@@ -12,7 +12,8 @@
 - Welser Messe
   - 2019-10-02 to 2019-10-05
 - Oö. Zukunftssymposium 2019 
-  - 2019-11-19
+  - 2019-11-19 
+    - 15:30
 - Neujahrsveranstaltung der Stadt Leonding
   - 2020-01-07 **Schüler fahren bei Transport mit** (Dezember)
   - Tontest
