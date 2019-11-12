@@ -4,7 +4,7 @@
 
 ## Events
 - [Ars Electronica Festival "Error – the Art of Imperfection"](https://ars.electronica.art/error/en/leonie-der-avatar-der-htl-leonding/)'
-  - DATE
+  - 2018-09-06 to 2018-09-10
 - [Ball der Leondiger](https://www.youtube.com/watch?v=kzIQ6k_xdjA)
   - DATE
 - [Schlossmuseum "TechVisionen – Neues aus der Zukunft"](http://www.landesmuseum.at/de/ausstellungen/detail/techvisionen-neues-aus-der-zukunft.html)
