@@ -9,7 +9,7 @@
   - DATE
 - [Schlossmuseum "TechVisionen – Neues aus der Zukunft"](http://www.landesmuseum.at/de/ausstellungen/detail/techvisionen-neues-aus-der-zukunft.html)
   - 2019-01-10 to 2019-03-31 
-- Welser Messe
+- [Welser Messe](https://web.archive.org/web/20191113185336/https://www.jugendundberuf.info/)
   - 2019-10-02 to 2019-10-05
 - Oö. Zukunftssymposium 2019 
   - 2019-11-19 
