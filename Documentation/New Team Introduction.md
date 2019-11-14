@@ -13,6 +13,8 @@ We're gonna need some actual introduction text here, probably a system overview 
 ## Install Tooling
 1. [Install Leonie Web Tooling](https://github.com/FabianAhammer/leonie-web/blob/master/CONTRIBUTING.md#install-tooling)
 2. [Visual Studio](https://visualstudio.microsoft.com/) for Leonie Holo development
+  - .NET Desktop
+  - [FlaxVS Extension](https://marketplace.visualstudio.com/items?itemName=Flax.FlaxVS)
 3. [FlaxEngine](https://flaxengine.com/) for Leonie Holo development
 4. Also, check out [GitKraken, the superior Git client](https://www.gitkraken.com/). 
     - (Although, [Git Fork](https://git-fork.com/) doesn't seem to be half bad either. All other UI clients suck though.)
